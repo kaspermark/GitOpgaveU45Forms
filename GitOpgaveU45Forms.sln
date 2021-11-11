@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitOpgaveU45Forms", "GitOpgaveU45Forms\GitOpgaveU45Forms.csproj", "{3513B60D-45CB-414F-BE82-FB11742ACE26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3513B60D-45CB-414F-BE82-FB11742ACE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3513B60D-45CB-414F-BE82-FB11742ACE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3513B60D-45CB-414F-BE82-FB11742ACE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3513B60D-45CB-414F-BE82-FB11742ACE26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E08E8A-0359-4EDF-BCC3-B88020EE26CE}
+	EndGlobalSection
+EndGlobal
