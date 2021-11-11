@@ -14,6 +14,9 @@ namespace GitOpgaveU45Forms
 {
     public partial class Form1 : Form
     {
+        string strconn = @"Server=mssql6.unoeuro.com; Database=kaspermark_dk_db_datamatiker; User ID=kaspermark_dk; Password=69qom3u9PW";
+        private const bool test = false;
+
         public Form1()
         {
             InitializeComponent();//test 
