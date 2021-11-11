@@ -19,7 +19,7 @@ namespace GitOpgaveU45Forms
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            Console.WriteLine("Test med textbox");
+            Console.WriteLine("Test med textbox");//sdfghf
         }
     }
 }
