@@ -17,6 +17,9 @@ namespace GitOpgaveU45Forms
             InitializeComponent();//test 
         }
 
-        
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            //jkhvc
+        }
     }
 }
