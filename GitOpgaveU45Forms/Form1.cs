@@ -19,8 +19,7 @@ namespace GitOpgaveU45Forms
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
-            //jkhvc
+           
         }
     }
 }
