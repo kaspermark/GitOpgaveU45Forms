@@ -14,7 +14,7 @@ namespace GitOpgaveU45Forms
     {
         public Form1()
         {
-            InitializeComponent();//test
+            InitializeComponent();//test 
         }
 
         
